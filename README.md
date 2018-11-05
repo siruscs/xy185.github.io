@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到本站
+
+你可以在这里发现新的知识
 
 You can use the [editor on GitHub](https://github.com/xy185/xy185.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
