@@ -27,8 +27,8 @@ AI人工智能手册：[AItimes.html](https://xy185.github.io/aitimes20181105.ht
 
 ### 联系我们
 
-![image](https://github.com/xy185/xy185.github.io/blob/master/imgfolder/wechatqrcodeX.jpg)
+![微信号1021-678-642](https://github.com/xy185/xy185.github.io/blob/master/imgfolder/wechatqrcodeX.jpg)
 
-有问题欢迎随时联系我，谢谢
+交流信息？欢迎随时联系我，谢谢
 
 
