@@ -4,11 +4,10 @@ theme: jekyll-theme-dinky
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-
 # Site
-title: Knowanddo
-subtitle:收集知识，梳理成册
+title: Hexo
+subtitle:
 description:
-author: Xu Yi
+author: John Doe
 language:
 timezone: Asia/Shanghai
