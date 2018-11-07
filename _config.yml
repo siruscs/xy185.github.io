@@ -1,13 +1,11 @@
 theme: jekyll-theme-dinky
 
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+
 
 # Site
-title: Hexo
-subtitle:
+title: 知识手册
+subtitle:收集知识，梳理成册
 description:
-author: John Doe
+author: Xu Yi
 language:
 timezone: Asia/Shanghai
