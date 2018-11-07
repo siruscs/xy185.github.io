@@ -28,7 +28,7 @@ AI人工智能手册：[AItimes.html](https://xy185.github.io/aitimes20181105.ht
 
 ### 去看项目源文件
 
-https://github.com/xy185/xy185.github.io
+[https://github.com/xy185/xy185.github.io](https://github.com/xy185/xy185.github.io)
 
 ### 联系我们
 
