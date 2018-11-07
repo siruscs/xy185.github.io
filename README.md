@@ -32,7 +32,7 @@ AI人工智能手册：[AItimes.html](https://xy185.github.io/aitimes20181105.ht
 
 ### 联系我们
 
-![微信号1021-678-642](https://github.com/xy185/xy185.github.io/blob/master/imgfolder/wechatqrcodeX.jpg)
+![微信号1021-678-642](https://upload-images.jianshu.io/upload_images/14217605-2b7ffa03c644ba1e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/181/format/webp)
 
 交流信息？欢迎随时联系我，谢谢
 
