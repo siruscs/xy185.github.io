@@ -1,6 +1,8 @@
 ## 欢迎来到KnowDo
 
-本站目的在于整理知识形成易于传播的知识手册
+### We Know, We Do
+
+整理知识,形成知识手册
 
 本站域名：[https://xy185.github.io](https://xy185.github.io)
 
@@ -18,6 +20,8 @@ AI人工智能手册：[AItimes.html](https://xy185.github.io/aitimes20181105.ht
 ```
 
 区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain20181107.html)
+
+Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf.html)
 
 ### 企业类手册
 
