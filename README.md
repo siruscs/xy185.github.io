@@ -1,6 +1,5 @@
 ## 欢迎来到KnowDo
 
-### We Know, We Do
 
 整理知识,形成知识手册
 
