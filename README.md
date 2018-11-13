@@ -28,6 +28,10 @@ Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpyt
 
 企业手册：[Company.html](https://xy185.github.io/company/company20181106.html)
 
+### 工作手册
+
+猎头手册：[猎头手册](https://xy185.github.io/hrm/hunter20181113.html)
+
 
 ### 去看项目源文件
 
