@@ -18,7 +18,7 @@ AI人工智能手册：[AItimes.html](https://xy185.github.io/aitimes20181105.ht
 --->Hello AI!
 ```
 
-区块链手册：[区块链手册](https://xy185.github.io/tech/blockchainguidebook20181113.html)
+区块链手册：[区块链手册](https://xy185.github.io/tech/blockchainguidebook20181116.html)
 
 Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
 
