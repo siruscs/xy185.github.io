@@ -10,7 +10,7 @@
 
 #### 初步完成的手册：
 
-区块链手册：[区块链手册](https://xy185.github.io/tech/blockchainguidebook20181202.html)
+区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181202.html)
 
 Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
 
