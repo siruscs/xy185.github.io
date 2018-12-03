@@ -8,13 +8,13 @@
 【首次打开较慢，建议下载文件到电脑，谢谢】
 
 
-#### 初步完成的手册：
+### 初步完成的手册：
 
 区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181202.html)
 
 Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
 
-#### 待完成的手册：
+### 待完成的手册：
 
 AI人工智能手册：[AItimes.html](https://xy185.github.io/aitimes20181105.html)
 
@@ -23,7 +23,7 @@ AI人工智能手册：[AItimes.html](https://xy185.github.io/aitimes20181105.ht
 --->Hello AI!
 ```
 
-企业手册：[Company.html](https://xy185.github.io/company/company20181106.html)
+金融科技企业手册：[Company.html](https://xy185.github.io/company/company20181106.html)
 
 
 
