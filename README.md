@@ -12,6 +12,8 @@
 
 区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181202.html)
 
+区块链词典：[区块链词典](https://xy185.github.io/tech/blockchain/blockchaindictionary20181119.html)
+
 Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
 
 ### 待完成的手册：
