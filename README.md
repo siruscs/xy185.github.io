@@ -10,17 +10,22 @@
 
 ### 初步完成的手册：
 
+####技术手册
+
+
 区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181215.html)
 
 区块链词典：[区块链词典](https://xy185.github.io/tech/blockchain/blockchaindictionary20181119.html)
 
 Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
 
+####文化手册
+
 四书五经：[四书五经](https://xy185.github.io/culture/9classicbookofChina.html)
 
 ### 待完成的手册：
 
-AI人工智能手册：[AItimes.html](https://xy185.github.io/aitimes20181105.html)
+AI人工智能手册：[AItimes.html](https://xy185.github.io/tech/AI/Aitimes20181216.html)
 
 ```markdown
 --->Hello World！
