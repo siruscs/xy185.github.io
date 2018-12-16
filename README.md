@@ -10,7 +10,7 @@
 
 ## 初步完成的手册：
 
-###技术手册
+### 技术手册
 
 
 区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181215.html)
@@ -19,7 +19,7 @@
 
 Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
 
-###文化手册
+### 文化手册
 
 四书五经：[四书五经](https://xy185.github.io/culture/9classicbookofChina.html)
 
