@@ -23,7 +23,7 @@ Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpyt
 
 四书五经：[四书五经](https://xy185.github.io/culture/china/9classicbookofChina20181219.html)
 
-中国古典文学：[古典文学合集](https://xy185.github.io/culture/china/gudianwenxue20181219.html)
+中国古典文学：[古典文学合集](https://xy185.github.io/culture/china/gudianwenxue20181220.html)
 
 ## 待完成的手册：
 
