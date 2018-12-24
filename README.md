@@ -13,7 +13,7 @@
 ### 技术手册
 
 
-区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181215.html)
+区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181224.html)
 
 区块链词典：[区块链词典](https://xy185.github.io/tech/blockchain/blockchaindictionary20181119.html)
 
