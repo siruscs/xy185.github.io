@@ -36,6 +36,12 @@ AI人工智能手册：[AItimes.html](https://xy185.github.io/tech/AI/Aitimes201
 
 金融科技企业手册：[Company.html](https://xy185.github.io/company/company20181106.html)
 
+消费金融手册：[消费金融手册](https://xy185.github.io/fi/consumerfinance20181225.html)
+
+民营银行手册：[](https://xy185.github.io/fi/bank/pbanks20181211.html)
+
+猎头手册：[猎头手册](https://xy185.github.io/HRM/hunter20181225.html)
+
 
 
 
