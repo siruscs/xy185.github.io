@@ -23,7 +23,7 @@ AI人工智能手册：[AItimes.html](https://xy185.github.io/tech/AI/Aitimes201
 
 Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
 
-IT技能手册：[IT技能图谱](https://xy185.github.io/tech/skills/skillmap20190101.html)
+IT技能手册：[IT技能图谱](https://xy185.github.io/tech/skills/skillsmap20190101.html)
 
 区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181215.html)
 
