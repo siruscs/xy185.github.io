@@ -14,7 +14,7 @@
 
 
 
-AI人工智能手册：[AItimes.html](https://xy185.github.io/tech/AI/Aitimes20181231.html)
+AI人工智能手册：[AItimes.html](https://xy185.github.io/tech/AI/Aitimes20190101.html)
 
 ```markdown
 --->Hello World！
