@@ -14,7 +14,7 @@
 
 
 
-AI人工智能手册：[AItimes.html](https://xy185.github.io/tech/AI/Aitimes20190101.html)
+AI人工智能手册：[AItimes.html](https://xy185.github.io/tech/AI/Aitimes20190122.html)
 
 ```markdown
 --->Hello World！
@@ -58,6 +58,8 @@ IT技能手册：[IT技能图谱](https://xy185.github.io/tech/skills/skillsmap2
 
 ![微信号1021-678-642](https://upload-images.jianshu.io/upload_images/14217605-2b7ffa03c644ba1e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/181/format/webp)
 
-交流信息？欢迎随时联系我，谢谢
+交流信息？
+
+欢迎随时联系我~~
 
 
