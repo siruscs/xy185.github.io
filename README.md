@@ -40,7 +40,7 @@ IT技能手册：[IT技能图谱](https://xy185.github.io/tech/skills/skillsmap2
 ## 待完成的手册：
 
 
-500强、独角兽企业手册：[Company.html](https://xy185.github.io/company/company20190220.html)
+500强、独角兽企业手册：[Company.html](https://xy185.github.io/company/companys20190220.html)
 
 消费金融手册：[消费金融手册](https://xy185.github.io/fi/consumerfinance/consumerfinance20181224.html)
 
