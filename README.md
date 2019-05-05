@@ -24,7 +24,7 @@ AI人工智能手册：
 
 Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
 
-IT技能和IT开发岗位类型：xy185.github.io/tech/AllaboutIT20190505.html 里面包含IT技能图谱
+IT技能和IT开发岗位类型：[IT技能图谱和IT开发岗位类型总结]（xy185.github.io/tech/AllaboutIT20190505.html） 里面包含IT技能图谱
 
 也可以只看[IT技能图谱](https://xy185.github.io/tech/skills/skillsmap20190101.html)
 
