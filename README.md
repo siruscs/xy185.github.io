@@ -12,8 +12,7 @@
 
 ### 技术手册
 
-IT技能和IT开发岗位类型：[IT技能图谱和IT开发岗位类型总结](https://xy185.github.io/tech/AllaboutIT20190513.html) 里面包含IT技能图谱
-
+常见的IT开发岗位的职位描述和对应岗位的技能图谱：[AllaboutIT](https://xy185.github.io/tech/AllaboutIT20190513.html) 
 
 AI人工智能手册：
 [AItimes.html](https://xy185.github.io/tech/AI/AItimes20190122.html)
