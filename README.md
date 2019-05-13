@@ -5,7 +5,7 @@
 
 本站域名：[https://xy185.github.io](https://xy185.github.io)
 
-【首次打开较慢，建议下载文件到电脑，谢谢】
+【首次打开较慢，建议电脑打开后保存文件到电脑】
 
 
 ## 初步完成的手册：
@@ -13,6 +13,8 @@
 ### 技术手册
 
 常见的IT开发岗位的职位描述和对应岗位的技能图谱：[AllaboutIT](https://xy185.github.io/tech/AllaboutIT20190513.html) 
+
+【文件30M，首次打开较慢，建议电脑打开后保存文件到电脑，感谢理解】
 
 AI人工智能手册：
 [AItimes.html](https://xy185.github.io/tech/AI/AItimes20190122.html)
