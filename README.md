@@ -12,6 +12,7 @@
 
 ### 技术手册
 
+IT技能和IT开发岗位类型：[IT技能图谱和IT开发岗位类型总结](https://xy185.github.io/tech/AllaboutIT20190513.html) 里面包含IT技能图谱
 
 
 AI人工智能手册：
@@ -22,15 +23,16 @@ AI人工智能手册：
 --->Hello AI!
 ```
 
-Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
-
-IT技能和IT开发岗位类型：[IT技能图谱和IT开发岗位类型总结](https://xy185.github.io/tech/AllaboutIT20190505.html) 里面包含IT技能图谱
-
-也可以只看[IT技能图谱](https://xy185.github.io/tech/skills/skillsmap20190101.html)
-
 区块链手册：[区块链手册](https://xy185.github.io/tech/blockchain/blockchainguidebook20181215.html)
 
+猎头手册：[猎头手册](https://xy185.github.io/HRM/hunter20181225.html)
+
+
+Python学习手册:[跟廖雪峰学Python](https://xy185.github.io/tech/learnpythonwithlxf20181108.html)
+
 区块链词典：[区块链词典](https://xy185.github.io/tech/blockchain/blockchaindictionary20181119.html)
+
+
 
 
 ### 文化手册
@@ -47,9 +49,6 @@ IT技能和IT开发岗位类型：[IT技能图谱和IT开发岗位类型总结](
 消费金融手册：[消费金融手册](https://xy185.github.io/fi/consumerfinance/consumerfinance20181224.html)
 
 民营银行手册：[民营银行](https://xy185.github.io/fi/bank/pbanks20181227.html)
-
-猎头手册：[猎头手册](https://xy185.github.io/HRM/hunter20181225.html)
-
 
 
 
