@@ -14,7 +14,7 @@
 
 常见的IT开发岗位的职位描述和对应岗位的技能图谱：[ITJobsandSkillsmap](https://xy185.github.io/tech/ITJobsandSkillsmap20190514.html) 
 
-【文件30M，首次打开较慢，建议电脑打开后保存文件到电脑，感谢理解】
+【首次打开较慢，建议电脑打开后保存文件到电脑，感谢理解】
 
 AI人工智能手册：
 [AItimes.html](https://xy185.github.io/tech/AI/AItimes20190122.html)
