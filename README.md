@@ -12,7 +12,7 @@
 
 ### 技术手册
 
-常见的IT开发岗位、招聘中的岗位、对应岗位的技能图谱以及算法课程推荐：[ITguidebook](https://xy185.github.io/tech/ITguidebook20190519.html) 
+常见的IT开发岗位、招聘中的岗位、对应岗位的技能图谱以及算法课程推荐：[ITguidebook](https://xy185.github.io/tech/ITguidebook20190520.html) 
 
 【首次打开较慢，建议电脑打开后保存文件到电脑，感谢理解】
 
